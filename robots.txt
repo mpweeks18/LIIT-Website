@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /contact.php
+
+Sitemap: https://liitlighting.com/sitemap.xml
